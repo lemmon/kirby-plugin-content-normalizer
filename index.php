@@ -259,4 +259,7 @@ Kirby::plugin('lemmon/content-normalizer', [
             },
         ],
     ],
-]);
+], info: [
+    'authors' => [['name' => 'Jakub Pelák']],
+    'homepage' => 'https://github.com/lemmon/kirby-plugin-content-normalizer',
+], license: 'MIT');
